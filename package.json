@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "consoleappweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.11"
+  }
+}
